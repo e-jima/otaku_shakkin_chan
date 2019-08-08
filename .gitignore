@@ -1,0 +1,4 @@
+secret/secret.yml
+.DS_Store
+.idea/
+venv/
